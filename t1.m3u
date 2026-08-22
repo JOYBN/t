@@ -1,59 +1,61 @@
-
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", C1
 http://livetv.akr4m.com:8080/bdtv/restrem/1.m3u8
+#EXTINF:0 type="stream" channelId="-1", C2
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C3
 http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C4
 http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C5
 http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C6
 http://livetv.akr4m.com:8080/bdtv/restrem/6.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C7
 http://livetv.akr4m.com:8080/bdtv/restrem/7.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C8
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C9
 http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C10
 http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C11
 http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C12
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C13
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C14
 http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C15
 http://livetv.akr4m.com:8080/bdtv/restrem/15.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C16
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C17
 http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C18
 http://livetv.akr4m.com:8080/bdtv/restrem/18.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C19
 http://livetv.akr4m.com:8080/bdtv/restrem/19.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C20
 http://livetv.akr4m.com:8080/bdtv/restrem/20.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C21
 http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C22
 http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C23
 http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C24
 http://livetv.akr4m.com:8080/bdtv/restrem/24.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C25
 http://livetv.akr4m.com:8080/bdtv/restrem/25.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C26
 http://livetv.akr4m.com:8080/bdtv/restrem/26.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C27
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C28
 http://livetv.akr4m.com:8080/bdtv/restrem/28.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", C29
 http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
 
 http://livetv.akr4m.com:8080/bdtv/restrem/30.m3u8
